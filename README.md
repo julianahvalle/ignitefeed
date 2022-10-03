@@ -70,7 +70,7 @@ Feel free to submit a new issue with a respective title and description on the t
 
 ## 📜 License
 
-Released in 2022 © This project is under [MIT License](LICENSE.md).
+Released in 2022 © This project is under [MIT License](LICENSE.txt).
 
 ## 😃 Author
 
