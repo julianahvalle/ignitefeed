@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img style="border-radius: 6px;" src="./wallpaper/ignite-feed-dark-mode.jpg" alt="Posts feed" title="Posts feed" />
+  <img style="border-radius: 6px;" src="./wallpaper/ignite-feed-dark-modev2.jpg" alt="Posts feed" title="Posts feed" />
 
   > <small>Posts feed on dark mode 🌃</small>
 </div>
