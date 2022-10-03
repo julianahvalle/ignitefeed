@@ -1,10 +1,14 @@
 import { Header } from './components/Header';
 import { Sidebar } from './components/Sidebar';
-import { Post } from './components/Post';
+import { Post, PostProps } from './components/Post';
 
 import styles from './App.module.css';
 
-const post = [
+interface Posts extends PostProps{
+  id: number
+}
+
+const posts:Posts[] = [
   {
     id: 1,
     author: {
@@ -54,7 +58,7 @@ export function App() {
       <div className={styles.wrapper}>
         <Sidebar/>
          <main>
-          {post.map(post => {
+          {posts.map(post => {
             return ( 
               <Post 
                 key={post.id}
